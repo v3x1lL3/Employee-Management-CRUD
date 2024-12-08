@@ -44,3 +44,17 @@ Follow these steps to clone and run the project locally:
 2. Install dependencies: npm install
 
 3. Start the development server: npm start
+
+## Developers
+
+These are the developers who contributed into this project:
+
+1. James Douglas Ancheta
+
+2. Jvon Clint Berdin
+
+3. Dominick Bolivar
+
+4. Giofranco Michelo Gatab
+
+5. Dennis Deevo Guevarra
