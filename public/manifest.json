@@ -1,0 +1,20 @@
+{
+  "short_name": "4-125 EMS CRUD",
+  "name": "4-125 EMS CRUD",
+  "icons": [
+    {
+      "src": "full-stack-development.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "full-stack-development.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
