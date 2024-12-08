@@ -47,7 +47,7 @@ Follow these steps to clone and run the project locally:
 
 ## Developers
 
-These are the developers who contributed into this project:
+These are the developers who contributed to this project:
 
 1. James Douglas Ancheta
 
